@@ -1,2 +1,2 @@
-# powerBi_dashboard
+# Churn_Data_analysis
 The Power BI Churn Analysis dashboard is designed to help businesses understand and predict customer churn (the rate at which customers leave or stop using a service). By analyzing historical customer data and identifying key indicators that contribute to churn, organizations can take proactive measures to retain valuable customers and reduce churn rates. This dashboard uses Power BI’s interactive features to provide insightful visualizations and actionable metrics to drive customer retention strategies.
